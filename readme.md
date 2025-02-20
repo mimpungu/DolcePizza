@@ -5,8 +5,9 @@
 
 Ce projet de gestion de pizzeria vise à créer une application web complète qui permet de gérer efficacement les pizzas, les recettes, les moyens de livraison et les commandes. L'application est construite en utilisant les technologies suivantes :
 - **Frontend** : HTML, CSS, JavaScript
-- **Backend** : Java avec Spring Boot
+- **Backend** : Servlet
 - **Serveur d'Application** : Apache Tomcat
+- **API** : ResTfull
 
 L'application offre une solution robuste et évolutive pour la gestion des pizzas et des commandes. Elle intègre une API RESTful pour effectuer des opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) et utilise **localStorage** pour persister les données entre les sessions de navigation.
 
